@@ -10,7 +10,7 @@ export default function App() {
           <h2>AI-Powered Trading Signals</h2>
           <p>
             Institutional-grade analysis for BTC, ETH & SOL perpetual futures.
-            Real-time market scanning powered by AI every 5 minutes.
+            Real-time market scanning powered by AI every 20 minutes.
           </p>
         </div>
 
@@ -23,7 +23,7 @@ export default function App() {
             </div>
             <div className="info-item">
               <span className="info-icon">⚡</span>
-              <h3>Every 5 Minutes</h3>
+              <h3>Every 20 Minutes</h3>
               <p>Continuous market scanning with real-time Coinglass data across BTC, ETH & SOL</p>
             </div>
             <div className="info-item">
@@ -53,7 +53,7 @@ export default function App() {
             pump.fun
           </a>
         </div>
-        <p className="footer-note">Neon Agent — Tokenized on Pump.fun</p>
+        <p className="footer-note">Yuko Agent Pump — Tokenized on Pump.fun</p>
       </footer>
     </div>
   );
