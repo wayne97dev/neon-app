@@ -53,7 +53,7 @@ export default function App() {
             pump.fun
           </a>
         </div>
-        <p className="footer-note">Yuko Agent Pump — Tokenized on Pump.fun</p>
+        <p className="footer-note">Neon Agent Pump — Tokenized on Pump.fun</p>
       </footer>
     </div>
   );
